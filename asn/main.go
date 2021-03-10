@@ -1,6 +1,5 @@
 package main
 
-//https://api.shodan.io/shodan/host/search?key=ZInUV2niG7iKGxJBz9buYLc78qKxG5Mq&query=linksys&facets=page=5000,%20asn
 import (
 	"encoding/json"
 	"fmt"
